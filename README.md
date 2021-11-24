@@ -17,3 +17,5 @@ Run a terminal in the location that is your file and simple run **python convert
 
 
 
+## Disclamer
+This is created while i m learning python, it has not been tested on multiple file types or it dosent have yet a error catch (at this time 24.11.2021)
